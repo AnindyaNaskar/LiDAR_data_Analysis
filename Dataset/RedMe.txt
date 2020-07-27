@@ -1,0 +1,11 @@
+BEGINNERS GUIDE TO LIDAR: LIGHT DETECTION AND RANGING
+https://www.thinkinfi.com/2020/07/lidar-data-analysis.html
+
+HOW TO DOWNLOAD LIDAR DATA FREE
+https://www.thinkinfi.com/2020/07/how-to-download-lidar-data-free.html
+
+DOWNLOAD HIGH RESOLUTION SATELLITE IMAGERY FREE ONLINE
+https://www.thinkinfi.com/2020/07/free-download-satellite-imagery.html
+
+HOW TO CREATE BOUNDARY SHAPE FILE FROM LIDAR DATA
+https://www.thinkinfi.com/2020/07/create-shape-file-of-lidar-data.html
